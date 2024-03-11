@@ -8,7 +8,7 @@ export default function Workx() {
             JLB Companies - Web Developer
           </h3>
           <p className="text-base text-blue-600">
-            Dec 2023 - Present && Nov 2018 - Dec 2022 (4.5 years)
+            Dec 2023 - Present & Nov 2018 - Dec 2022 (4.5 years)
           </p>
           <ul className="text-sm list-disc mx-4">
             <li>
@@ -58,5 +58,5 @@ export default function Workx() {
         </li>
       </ul>
     </>
-  );
+  )
 }

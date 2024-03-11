@@ -4,14 +4,14 @@ export default function Navi() {
   return (
     <nav className="bg-blue-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <a href="#" className="text-xl font-bold">
+        <div className="text-xl font-bold">
           <div className="flex items-center">
             <div>
               <Avatar src="/assets/cb.jpeg" alt="Clint Baker" />
             </div>
             <div className="ml-2">Clint Baker</div>
           </div>
-        </a>
+        </div>
         <div className="flex space-x-4">
           <a
             href="javascript:document.getElementById('about').scrollIntoView(true);"
