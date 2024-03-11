@@ -9,7 +9,7 @@ const portfolioItems = [
     name: 'Reqbro',
     description:
       'A command line tool developed to query a free tier Render.com app at an interval in order to prevent the server from spinning down 😉.',
-    imgUrl: '/assets/reqbro.jpeg',
+    imgUrl: 'assets/reqbro.jpeg',
     link: 'https://github.com/ClintBaker/reqbro',
   },
   {
@@ -17,7 +17,7 @@ const portfolioItems = [
     name: 'Golf Course Ranker',
     description:
       'A MERN Stack project that allows users to rank and manage their favorite golf courses, and browse courses based on user ranks.',
-    imgUrl: '/assets/gcr.jpeg',
+    imgUrl: 'assets/gcr.jpeg',
     link: 'https://gcr-7rlp.onrender.com/',
   },
   {
@@ -25,7 +25,7 @@ const portfolioItems = [
     name: 'Shopify Development',
     description:
       "Throughout my career I've developed, worked on, improved, and maintained a number of Shopify apps, storefronts, and micorservices.",
-    imgUrl: '/assets/shop.jpeg',
+    imgUrl: 'assets/shop.jpeg',
     link: 'https://github.com/ClintBaker',
   },
 ]
