@@ -50,7 +50,7 @@ function ContactForm() {
             setAlert({ message: '' })
           }, 4000)
         },
-        function (error) {
+        function (_error) {
           setAlert({ message: 'Unable to send message' })
           setTimeout(() => {
             setAlert({ message: '' })
