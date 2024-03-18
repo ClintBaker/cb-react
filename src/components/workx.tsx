@@ -5,7 +5,7 @@ export default function Workx() {
       <ul>
         <li>
           <h3 className="text-lg font-semibold">
-            JLB Companies - Web Developer
+            JLB Companies - Software Developer
           </h3>
           <p className="text-base text-blue-600">
             Dec 2023 - Present & Nov 2018 - Dec 2022 (4.5 years)
