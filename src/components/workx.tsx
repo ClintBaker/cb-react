@@ -8,11 +8,16 @@ export default function Workx() {
             JLB Companies - Software Developer
           </h3>
           <p className="text-base text-blue-600">
-            Dec 2023 - Present & Nov 2018 - Dec 2022 (4.5 years)
+            Dec 2019 - Present (4.5 years)
           </p>
           <ul className="text-sm list-disc mx-4">
             <li>
-              Delivered full stack Shopify solutions using best practice,
+              Lead the development of custom in-house business process
+              management applications, using React.js, PostgreSQL, Typescript,
+              and a variety of technologies.
+            </li>
+            <li>
+              Delivered full stack bespoke Shopify apps using best practice,
               ensuring a positive user experience.
             </li>
             <li>
@@ -24,19 +29,14 @@ export default function Workx() {
               from start to finish, and incorporated necessary apps to meet user
               requirements.
             </li>
-            <li>
-              Worked closely with the marketing teams to capture customer data,
-              improve user experience, and promote products on a multitude of
-              digital platforms using Shopify product data.
-            </li>
           </ul>
         </li>
         <li>
           <h3 className="text-lg font-semibold">
-            TechTAC - Operations Analyst
+            TechTAC - Operations Analyst & Sales Analyst
           </h3>
           <p className="text-base text-blue-600">
-            Dec 2022 - Dec 2023 (1 year)
+            Jul 2015 - Dec 2019 (4.5 years)
           </p>
           <ul className="text-sm list-disc mx-4">
             <li>

@@ -14,23 +14,27 @@ const About = () => {
         </div>
         <div className="max-w-4xl mx-auto">
           <p className="text-lg">
-            I've developed many Shopify websites, apps, and microservices, to
-            drive ecommerce operations and analysis for multiple entities, and
-            ultimately facilitated the sale of $7M+ in digital revenue annually.
-            Always seeking personal growth, I expanded my coding acumen through{' '}
+            I'm a non-traditional software developer with a passion for
+            developing business applications. As a part of the development team
+            at{' '}
             <span>
               <a
-                className="text-blue-600"
-                href="https://www.vschool.io"
                 target="_blank"
+                className=" underline"
+                href="https://www.jlbcompanies.com"
               >
-                VSchool's
+                JLB Companies
               </a>
-            </span>{' '}
-            1,000+ hour coding Bootcamp focused on Javascript, where I was
-            invited to return as a teaching assistant. I am now eager to tackle
-            more complex challenges and continue to find ways to build
-            Javascript solutions for real-world problems.
+            </span>
+            , I've helped facilitate the sale of $20M+ in digital revenue
+            annually. I've been a crucial part of the development of bespoke
+            business process management software focused on delivering curated
+            KPIs in a custom format. Acted as founding developer to bring an MVP
+            based on our product management team’s user requirements, and
+            ensured the delivery of quality software on a demanding schedule.
+            Always seeking personal growth, I expanded my coding acumen through
+            a 1,000+ hour coding Bootcamp focused on JavaScript, where I was
+            invited to return as a teaching assistant. Let's build something!
           </p>
 
           <div className="mt-8 grid grid-cols-12 gap-3 h-fit">
